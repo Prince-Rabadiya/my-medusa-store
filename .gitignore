@@ -24,3 +24,9 @@ build
 !.yarn/versions
 
 .medusa
+
+.yalc/
+.yarn/
+
+*.log
+.vscode/
